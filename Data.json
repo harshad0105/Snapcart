@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Dairy, Bread & Eggs",
+    "category": [
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3af56c86-9a93-4d0c-a8d5-cf38493e4120.png",
+        "name": "Amul Masti Pouch Curd",
+        "quantity": "390 g",
+        "price": 35
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5734b087-3ad9-485f-bbe2-52079cd9e35d.png",
+        "name": "Amul Taaza Toned Milk",
+        "quantity": "500 ml",
+        "price": 29
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/bc94259c-f293-4289-abc5-f4cb0da63270.png",
+        "name": "Gokul Full Cream Milk",
+        "quantity": "500 ml",
+        "price": 37
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/172ff149-60a1-4e57-968a-f252dc0ba6a6.png",
+        "name": "Chitale Full Cream Milk",
+        "quantity": "500 ml",
+        "price": 37
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e13b3105-58c0-41f1-b6a9-0e4a3344cf6e.png",
+        "name": "Yojana Poultry Power White Eggs - 6 pcs",
+        "quantity": "6 pieces",
+        "price": 55
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/613787ac-f983-4cfb-b534-e219c8d47b39.png",
+        "name": "Amul Salted Butter",
+        "quantity": "100 g",
+        "price": 62
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/206222ac-5f41-4d09-984f-09cae2773941.png",
+        "name": "Modern White Bread",
+        "quantity": "400 g",
+        "price": 40
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3af56c86-9a93-4d0c-a8d5-cf38493e4120.png",
+        "name": "Amul Masti Pouch Curd",
+        "quantity": "390 g",
+        "price": 35
+      }
+    ]
+  },
+  {
+    "title": "Snacks & Munchies",
+    "category": [
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/2f46c85d-ab82-4b3d-aa7e-6cfe61ab3c7f.png",
+        "name": "Pringles Hot & Spicy Potato Chips",
+        "quantity": "165 g",
+        "price": 261
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/bf7cbdb0-862b-4300-badd-44c5fb85b7df.png",
+        "name": "Protein Chef Baked Coated Peanuts (Masala Roasted Healthy Snacks)",
+        "quantity": "50 g",
+        "price": 69
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/ebadff31-2807-480d-92bb-f34f29b1bbd9.png",
+        "name": "Kab's Jackpot Fire Balls Snack",
+        "quantity": "60 g",
+        "price": 65
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/da/cms-assets/cms/product/7806dadc-a3c9-4cec-869f-90879c1f345c.png",
+        "name": "Lay's India's Magic Masala Potato Chips",
+        "quantity": "67 g",
+        "price": 30
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=450/da/cms-assets/cms/product/bf324463-67d9-41ce-8888-bb5c7f3cb6aa.png",
+        "name": "Beanly Dark Chocolate Spread with Breadsticks",
+        "quantity": "52 g",
+        "price": 99
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/2b5d0954-c585-4c1c-869b-be28a9054376.png",
+        "name": "Bikaji Bhujia",
+        "quantity": "400 g",
+        "price": 114
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/52164aee-c1db-48b7-8b76-2acfbaeaf4c2.png",
+        "name": "Kab's Jackpot Fiery and Crunchy Crisps",
+        "quantity": "80 g",
+        "price": 65
+      },
+      {
+        "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/da/cms-assets/cms/product/2b5d0954-c585-4c1c-869b-be28a9054376.png",
+        "name": "Bikaji Bhujia",
+        "quantity": "400 g",
+        "price": 114
+      }
+    ]
+  }
+]
