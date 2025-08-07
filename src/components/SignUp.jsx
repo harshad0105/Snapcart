@@ -7,24 +7,14 @@ const SignUp = () => {
         <h2 className="text-center text-2xl font-bold mb-6">Sign up</h2>
 
         <div className="mb-4">
-          <h1 className="block text-gray-700 font-semibold mb-1"> Email </h1>
-          <input
-            id="email"
-            type="email"
-            placeholder="Enter email id"
-            className="w-full h-10 px-3 border-2 border-gray-300 rounded focus:outline-none focus:border-green-400"
-          />
+          <h1 className="block text-gray-700 font-semibold mb-1"> Username </h1>
+          <input id="name" type="text" placeholder="Enter Username id"
+            className="w-full h-10 px-3 border-2 border-gray-300 rounded focus:outline-none focus:border-green-400"/>
         </div>
 
         <div className="mb-4">
-          <h1 className="block text-gray-700 font-semibold mb-1">
-            {" "}
-            Mobile No.{" "}
-          </h1>
-          <input
-            id="number"
-            type="email"
-            placeholder="Enter Mobile number"
+          <h1 className="block text-gray-700 font-semibold mb-1"> Email </h1>
+          <input id="email" type="email" placeholder="Enter email id"
             className="w-full h-10 px-3 border-2 border-gray-300 rounded focus:outline-none focus:border-green-400"
           />
         </div>

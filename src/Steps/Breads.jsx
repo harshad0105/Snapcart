@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Box from "../components/Box";
-import data from "../Data.json";
+import data from "../../Data.json";
 
 const Breads = () => {
   const [showAll, setShowAll] = useState(data.map(() => false));

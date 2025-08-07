@@ -1,11 +1,11 @@
 import { Routes, Route, useLocation } from 'react-router-dom';
-import Header from '../Steps/Header';
-import Items from '../Steps/Items';
-import Breads from '../Steps/Breads';
-import Footer from '../Steps/Footer';
-import Slider from '../Steps/Slider';
-import Login from '../components/Login'; 
-import SignUp from '../components/SignUp';
+import Header from './Steps/Header';
+import Items from './Steps/Items';
+import Breads from './Steps/Breads';
+import Footer from './Steps/Footer';
+import Slider from './Steps/Slider';
+import Login from './components/Login'; 
+import SignUp from './components/SignUp';
 import { useEffect, useState } from 'react';
 
 function App() {

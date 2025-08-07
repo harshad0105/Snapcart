@@ -1,8 +1,8 @@
 import React from "react";
-import logo from "../src/assets/logo.png";
+import logo from "../assets/logo.png";
 import NavBar from "./NavBar";
 import { Link } from "react-router-dom";
-import logoAnimation from '../src/assets/shopping_cart.json';
+import logoAnimation from '../assets/shopping_cart.json';
 import { Player } from "@lottiefiles/react-lottie-player";
 
 const Header = () => {
